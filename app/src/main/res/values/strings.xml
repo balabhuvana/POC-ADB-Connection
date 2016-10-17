@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">POC-ADB-Connection</string>
+    <string name="title_activity_connection">Connection</string>
+</resources>
